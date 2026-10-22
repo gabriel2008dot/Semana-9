@@ -1,0 +1,113 @@
+1. Nutrients. 2023 Jan 13;15(2):430. doi: 10.3390/nu15020430.
+
+Association between Sugar-Sweetened Beverage Consumption and the Risk of the 
+Metabolic Syndrome: A Systematic Review and Meta-Analysis.
+
+Muñoz-Cabrejas A(1), Guallar-Castillón P(2), Laclaustra M(1)(3)(4), 
+Sandoval-Insausti H(2)(5), Moreno-Franco B(1)(4)(6).
+
+Author information:
+(1)Instituto de Investigación Sanitaria Aragón, Hospital Universitario Miguel 
+Servet, 50009 Zaragoza, Spain.
+(2)Departamento de Medicina Preventiva y Salud Pública, Universidad Autónoma de 
+Madrid-IdiPaz, CIBERESP (CIBER de Epidemiología y Salud Pública), IMDEA 
+Alimentación, 28029 Madrid, Spain.
+(3)Departamento de Medicina, Psiquiatría y Dermatología, Universidad de 
+Zaragoza, 50009 Zaragoza, Spain.
+(4)CIBERCV (CIBER de Enfermedades Cardiovasculares), 28029 Madrid, Spain.
+(5)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA 02115, USA.
+(6)Departamento de Medicina, Preventiva y Salud Pública, Universidad de 
+Zaragoza, 50009 Zaragoza, Spain.
+
+(1) Background: The increasing occurrence of the metabolic syndrome (MetS) is 
+largely related to harmful food habits. Among them, the consumption of 
+sugar-sweetened beverages (SSBs) is noteworthy. However, to our knowledge, there 
+are not enough high-quality methodological studies summarizing the association 
+between the intake of SSBs and the MetS. Therefore, the aim of this study is to 
+examine the existing published results on this association among adults by 
+synthesizing the existing evidence. (2) Methods: Systematic review and 
+meta-analysis of observational studies following the PRISMA guidelines. Relevant 
+information was extracted and presented following the PRISMA recommendations. 
+PubMed and SCOPUS databases were searched for studies published until June 2022 
+that assessed the association between SSB consumption (including soft drinks, 
+bottled fruit juices, energy drinks, and milkshakes) and the occurrence of MetS. 
+Random effect models were used to estimate pooled odds ratios (ORs) with their 
+95% coefficient interval, and I2 was used to assess heterogeneity. (3) Results: 
+A total of 14 publications from 6 different countries were included in this 
+meta-analysis (9 cross-sectional and 5 cohort studies). For the cross-sectional 
+studies, which included 62,693 adults, the pooled OR for the risk of MetS was 
+1.35 (95% CI 1.15, 1.58; I2 57%) when the highest versus the lowest categories 
+of SSB consumption were compared. For the cohort studies, which included 28,932 
+adults, the pooled OR was 1.18 (95% CI 1.06, 1.32; I2 70%). (4) Conclusions: The 
+consumption of SSBs was positively associated with an increased risk of MetS. 
+The published literature supports public health strategies and the need to 
+reduce the consumption of SSBs to prevent MetS.
+
+DOI: 10.3390/nu15020430
+PMCID: PMC9912256
+PMID: 36678301 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+2. Diabetes Metab Syndr. 2022 Apr;16(4):102462. doi: 10.1016/j.dsx.2022.102462. 
+Epub 2022 Mar 15.
+
+Sweetened beverage consumption and risk of cardiovascular mortality: A 
+systematic review and meta-analysis.
+
+Bhagavathula AS(1), Rahmani J(2), Vidyasagar K(3), Tesfaye W(4), Khubchandani 
+J(5).
+
+Author information:
+(1)Department of Social and Clinical Pharmacy, Faculty of Pharmacy at Hradec 
+Kralove, Charles University, Hradec Kralove, Czech Republic. Electronic address: 
+akshaypharmd@gmail.com.
+(2)Department of Community Nutrition, Student Research Committee, Faculty of 
+Nutrition and Food Technology, National Nutrition and Food Technology Research 
+Institute, Shahid Beheshti University of Medical Sciences, Tehran, Iran. 
+Electronic address: mojtaba.rah91@gmail.com.
+(3)Department of Pharmaceutical Sciences, University College of Pharmaceutical 
+Sciences, Hanamkonda 506009, Telangana, India. Electronic address: 
+vidyasagarkota2@gmail.com.
+(4)Health Research Institute, University of Canberra, Canberra, Australian 
+Capital Territory, Australia. Electronic address: 
+Wubshet.Tesfaye@canberra.edu.au.
+(5)Department of Public Health Sciences, College of Health and Social Services, 
+New Mexico State University, Las Cruces, NM, 88003, USA. Electronic address: 
+jagdish@nmsu.edu.
+
+BACKGROUND AND AIMS: Several studies have reported the association of sweetened 
+beverages (SB) with cardiovascular disease. However, the relationship between SB 
+and cardiovascular mortality has not been clearly established. This systematic 
+review and meta-analysis investigated the association between SB consumption and 
+cardiovascular mortality.
+METHODS: PubMed/MEDLINE, Web of Science, and Embase were systematically searched 
+up to July 31, 2021, for prospective cohort studies investigating this 
+association in adults. Pooled relative risks (RRs) and 95% confidence intervals 
+(CIs) were used to assess the strength of association between SB: 
+sugar-sweetened beverages (SSB)/artificial-sweetened beverages (ASB) exposure 
+and cardiovascular mortality.
+RESULTS: A total of eight cohort studies comprising 1.2 million participants 
+exposed to SB, reported 15,831 (1.2%) cases of cardiovascular mortality with a 
+median follow-up of 12.2 years. Consuming at least one glass (250 ml) of SB per 
+day (RR: 1.06; 95% CI: 1.00-1.12, P < 0.001) or ≥2 glasses per day (RR: 1.24; 
+95% CI: 1.16-1.31, P < 0.001) was significantly associated with increased risk 
+of cardiovascular mortality. SSB and ASB intake of ≥2 glasses per day increased 
+the risk of cardiovascular mortality by 21% (RR:1.21, 95% CI: 1.09-1.33, 
+P < 0.001) and 33% (RR: 1.33, 95% CI: 1.12-1.55, P < 0.001), respectively.
+CONCLUSIONS: Our findings reveal that high SSB and ASB consumption are 
+associated with an increased risk of cardiovascular mortality. Policymakers and 
+public health practitioners should work on multisectoral strategies to reduce 
+the consumption of sweetened beverages around the world and among all population 
+groups.
+
+Copyright © 2022 Diabetes India. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.dsx.2022.102462
+PMID: 35325785 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+report no conflicts of interest. The authors alone are responsible for the 
+content and writing of this paper.
